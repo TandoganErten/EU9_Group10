@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398381b8-e964-4568-979f-c10f23be3970" name="Changes" comment="My second work" />
+    <list default="true" id="398381b8-e964-4568-979f-c10f23be3970" name="Changes" comment="My second work">
+      <change afterPath="$PROJECT_DIR$/src/ArifKarakas/TestByArif02.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659295098504</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="My second work">
+      <created>1659295398074</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659295398074</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
