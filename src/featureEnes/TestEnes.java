@@ -9,5 +9,7 @@ public class TestEnes {
         for (int i = 0; i < n; i++) {
             System.out.println(s);
         }
+
+        //TEST
     }
 }
