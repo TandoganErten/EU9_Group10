@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
@@ -14,9 +15,27 @@
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
+
+  <component name="RunManager">
+    <configuration name="sepetchiGroup10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="featureSepetchi.sepetchiGroup10" />
+      <module name="EU9_Group10x1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="featureSepetchi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+
       <list>
-        <option value="Class" />
+        <item itemvalue="Application.sepetchiGroup10" />
       </list>
+
     </option>
   </component>
   <component name="Git.Settings">
@@ -153,5 +172,8 @@
     <MESSAGE value="My work" />
     <MESSAGE value="My second work" />
     <option name="LAST_COMMIT_MESSAGE" value="My second work" />
+
+    </recent_temporary>
+
   </component>
 </project>
